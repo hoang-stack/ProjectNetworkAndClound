@@ -6,4 +6,4 @@ Trần Văn Hoàng,
 Đoàn Nguyễn Đăng Khoa, 
 Trần Nhật Duy, 
 ---
-Mã nguồn đồ án cuối kỳ, chủ đề Game sever (CARO/CHESS)
+Mã nguồn đồ án cuối kỳ, chủ đề Game Socket and TCP (CARO/CHESS)
